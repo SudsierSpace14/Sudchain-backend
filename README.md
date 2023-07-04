@@ -8,6 +8,8 @@ Blockchain backend from Simply Explained Blockchain tutorial series, this includ
 
 ## Instalação
 
+For now it's not working, soon ima create a new repository with NestJS and be able to be used
+
 Instale my-project com npm
 
 ```bash
